@@ -3,8 +3,6 @@ shared_examples 'flow control operator' do
     send(method_name, expr, &block)
   end
 
-  let(:condition) { true }
-
   it 'executes the block' do
     x = 0
 
