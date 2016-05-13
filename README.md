@@ -1,5 +1,7 @@
 # Despite
 [![Build Status](https://travis-ci.org/Nu-hin/despite.svg?branch=master)](https://travis-ci.org/Nu-hin/despite)
+[![Code Climate](https://codeclimate.com/github/Nu-hin/despite/badges/gpa.svg)](https://codeclimate.com/github/Nu-hin/despite)
+[![Test Coverage](https://codeclimate.com/github/Nu-hin/despite/badges/coverage.svg)](https://codeclimate.com/github/Nu-hin/despite/coverage)
 
 This gem introduces new advanced verbose flow-control operators to Ruby language.
 
