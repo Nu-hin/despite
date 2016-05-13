@@ -8,4 +8,5 @@ end
 
 group :development, :test do
   gem 'rspec'
+  gem 'rake'
 end
