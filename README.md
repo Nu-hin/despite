@@ -1,4 +1,5 @@
 # Despite
+[![Build Status](https://travis-ci.org/Nu-hin/despite.svg?branch=master)](https://travis-ci.org/Nu-hin/despite)
 
 This gem introduces new advanced verbose flow-control operators to Ruby language.
 
